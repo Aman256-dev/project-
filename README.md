@@ -1,2 +1,5 @@
 # project-
-Data Analysis, data cleaning, data mining, data visualization, preparing dashboards and business presentations. Well Versed with Advance Excel formulas and functions (Offset, VLOOKUP, Lookup, Sum if, Count if, index &amp; Match, Subtotal, Pivot Table, Charts, Conditional formatting, Graphs, Protection etc.) 
+•	Covid 19 Data Dashboard: The objective of this project is to have a dashboard for all peasant, death, present from 20 Jan 2020 to Covid time 28 May 2024 last update
+       Trend analyst and report.
+       Technologies Used: Tableau and                     
+        Power BI.
