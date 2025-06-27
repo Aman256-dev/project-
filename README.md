@@ -25,7 +25,11 @@ This Power BI report provides a data-driven view of:
 - Present insights to stakeholders in a clear visual format
 
 ## 📷 Sample Screenshots
-> *(You can add screenshots after uploading the `.pbix` to Power BI Service or exporting to PDF)*
+> *(![image](https://github.com/user-attachments/assets/8af1eeda-5fcb-48f1-8b19-278495a8b3ce),
+> ![image](https://github.com/user-attachments/assets/8a959709-9424-47d2-89e3-fea2385b99ac),
+> ![image](https://github.com/user-attachments/assets/f287946f-dbab-46d4-8d10-c5602c096fdc),
+> ![image](https://github.com/user-attachments/assets/ceb0bc06-abbb-416c-9d1d-2f048e24ef2e),
+)*
 
 ## 🚀 Getting Started
 To explore the dashboard:
@@ -41,9 +45,5 @@ To explore the dashboard:
 `powerbi` `dashboard` `data-analysis` `sales-analysis` `training-cost` `trend-analysis` `kpi-visualization`
 
 ## 🧑‍💼 Author
-**Your Name** – [LinkedIn](#) | [Email](#)
-
----
-
-> _Feel free to fork, customize, and use this dashboard for your own organizational needs._
-
+**Aman Kumar** – [www.linkedin.com/in/
+aman-kumar-0076a7214](#) | [Akrawat428@gmail.com](#)
