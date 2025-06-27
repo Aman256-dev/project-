@@ -34,11 +34,11 @@ This Power BI report provides a data-driven view of:
 ## 🚀 Getting Started
 To explore the dashboard:
 1. Download this repository
-2. Open `Session 10 (1).pbix` in Power BI Desktop
+2. Open `Sales Dashboard.pbix` in Power BI Desktop
 3. Refresh or connect to your own dataset if needed
 
 ## 📁 File Info
-- `Session 10 (1).pbix` – The main Power BI report file
+- `Sales Dashboard.pbix` – The main Power BI report file
 - Extracted folders: Metadata, DataModel, Layout (auto-generated)
 
 ## 🏷️ Tags
